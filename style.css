@@ -1,0 +1,15 @@
+.div-gen {
+    width: 100%;
+    height: 5pc;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    background-color: red;
+}
+
+#generate-btn{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.yellow-background {
+    background-color: yellow;
+}
